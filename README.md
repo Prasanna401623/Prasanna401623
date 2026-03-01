@@ -1,5 +1,5 @@
 # 💫 Hi! I am Prasanna Kumar Jha.
-Sophomore Computer Science student at University of Louisiana at Monroe<br>Interested in Machine Learning and AI
+Junior Computer Science student at University of Louisiana at Monroe<br>Interested in Machine Learning and AI
 
 
 ## 🌐 Socials
