@@ -1,6 +1,6 @@
 # 💫 Hi! I am Prasanna Kumar Jha.
 Junior Computer Science student at University of Louisiana at Monroe<br>Interested in Machine Learning and AI
-Portofio: [!https://prasannajha.com](https://prasannajha.com)
+Portofio: [![https://prasannajha.com](https://prasannajha.com)]
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prasanna.jha.401) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prasanna-kumar-jha-77b82230a) 
